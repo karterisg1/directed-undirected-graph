@@ -1,0 +1,5 @@
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -c WeightedUndirectedGraph.c
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -c program5.c
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -o p5 WeightedUndirectedGraph.o program5.o
+
+εκτελεση: p5 < input1.txt

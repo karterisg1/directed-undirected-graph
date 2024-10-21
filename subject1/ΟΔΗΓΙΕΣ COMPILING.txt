@@ -1,0 +1,8 @@
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -c DirectedGraph.c
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -c QueueImplementation.c
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -c StackImplementation.c
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -c program1.c
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -o p1 DirectedGraph.o QueueImplementation.o StackImplementation.o program1.o
+
+εκτέλεση:
+p1 < input1.txt

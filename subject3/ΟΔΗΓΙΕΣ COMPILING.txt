@@ -1,0 +1,5 @@
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -c UnDirectedGraph.c
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -c program3.c
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -o p3 UnDirectedGraph.o program3.o
+
+εκτελεση: p3 < input1.txt
